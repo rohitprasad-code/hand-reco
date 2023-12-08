@@ -1,0 +1,8 @@
+pandas
+numpy
+sklearn
+matplotlib
+seaborn
+xgboost
+mediapipe
+opencv-python
